@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.jumbotron{
+	background-image: url("https://images.pexels.com/photos/1660030/pexels-photo-1660030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+     margin-top: 10px;
+}
+.btn{
+	align-content: center;
+}
+.navvv{
+	background-color: black;
+}
